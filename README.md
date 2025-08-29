@@ -88,4 +88,4 @@ diabetes-multimodal/
 
 ## Documentation
 
-The complete documentation of the project, including methodology, dataset analysis, model architecture and results, is available in Italian language in: [Documentazione.pdf](https://github.com/cirovitale/diabetes-multimodal/edit/main/Documentazione.pdf)
+The complete documentation of the project, including methodology, dataset analysis, model architecture and results, is available in Italian language in: [Documentazione.pdf](https://github.com/cirovitale/diabetes-multimodal/blob/main/Documentazione.pdf)
